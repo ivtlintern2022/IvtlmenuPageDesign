@@ -1,0 +1,348 @@
+/*menu 2 starts here*/
+body{
+	font-size:14px;
+}
+#dashboard_menu{
+	position:relative;
+}
+#rowone{
+	padding-bottom: 15px;
+}
+#colone{
+	margin-top: 25px;
+}
+#setting_bar_in_menu{
+	background-color:transparent; 
+	margin-left:15px;
+}
+#setting_span{
+	margin-left: 15px;
+}
+#contact_admin{
+	margin-left: 15px;
+}
+#main_card{
+	position:absolute; 
+	top:0px;left: 210px; 
+	background-color: #1B1C20; 
+	width:1184px; 
+	height: 450px; 
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+#signout_menulist{
+	margin:10px;
+	background-color: black; 
+	margin-bottom:0px;
+}
+#signout_span{
+	margin-left: 15px; 
+	color: whitesmoke;
+}
+#dashboard_starting{
+	border-bottom: 1px solid #35383D;
+	padding-bottom: 10px;
+	margin-right: 10px;
+}
+#icon_menulist_menu2{
+	margin-left: 15px;
+}
+#dropdown-menu-dark{
+	font-size:13px;
+}
+
+#bi-grid-1x2-fill{
+	margin-left: 10px;
+}
+#dashboard_span{
+	margin-left: 15px;
+}
+#blogs_span{
+	margin-left: 15px;
+}
+#salary_span{
+margin-left: 15px;
+}
+#help_needed{
+	padding-bottom:14px;
+}
+#bi-pencil-square{
+	padding-left: 10px;
+	}
+#dropdown-menu-dark{
+	font-size:13px;
+}
+#need_help{
+	margin-left: 15px;
+}
+#menulist_menu2{
+	outline: none;
+	 background-color: black;
+	  border-bottom: 1px solid #35383D;
+	   padding-bottom: 20px;
+	    margin-right: 10px;
+}
+#profile_img_name_designation{
+	width:50px; 
+	border-radius:30px;
+	margin-top: 10px;
+}
+#card_user_details_div{
+	height:55px; 
+	background-color:transparent; 
+	color: whitesmoke;
+}
+#empty_div_user_details{
+	padding-bottom: 10px; 
+	margin-right: 5px;
+}
+#maincard_heading_h5{
+	margin-top:30px;
+	margin-left: 45px;
+}
+#user_details_div{
+	position: absolute; 
+	right: 70px;
+	top: 15px; 
+	width:200px;
+}
+#input_search{
+	width:300px; 
+	height: 35px;
+}
+#search_input_button{
+	height: 35px;
+}
+#designation_header_p{
+	font-size: 13px; margin-top: 5px; margin-right:5px;
+}
+#designation_header_span{
+	font-size: 12px;
+}
+#bi-calendar-week{
+	margin-right:10px;
+}
+#card_page_hover_effect{
+	width:1050px;
+	margin-left: 45px; 
+	margin-top: 30px; 
+	padding-top: 10px; 
+	padding-bottom: 10px; 
+	background-color:black;
+}
+#search_d_flex{
+	position: absolute;
+	 right: 300px;
+	 top: 15px;
+	 margin-top: 10px;
+}
+#topbar_text{
+	margin-right: 15px;
+}
+#projecthoursh6{
+	margin-top:20px; 
+	margin-left: 45px; 
+	margin-bottom: 20px;
+}
+#container_maincard{
+	position:absolute; 
+	top:450px;
+	left: 205px; 
+	background-color: black; 
+	width:1284px; 
+	height: 450px; 
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+#workprogress_h6{
+	margin-top:20px;
+	 margin-left: 45px;
+	  margin-bottom: 20px;
+}
+#bi-reception-3{
+	margin-right:10px;
+}
+#drop_down{
+  background-color: #000000;
+  border: none;
+  margin-left: -13px;
+  font-size: 14px;
+  margin-top: -10px;
+  margin-bottom: -10px;
+}
+#quick_link_btn_menu2{
+	position: absolute; 
+	right:50px; 
+	bottom: 40px;
+}
+#infoview_logo{
+	margin-top:25px;
+	margin-left:20px;
+	font-size: 17px;
+}
+.menu_2_body{
+	overflow: hidden;
+	background-color: black;
+}
+.dashboard_menu{
+	background-color: #000000;
+	width: 210px;
+	height:715px;
+}
+.menu_2_logo{
+	margin-top: 30px;
+	margin-left: 30px;
+	width:100px;
+}
+.bi-arrow-left-circle{
+	color: whitesmoke;
+	margin-left: 20px;
+	font-size: 20px;
+}
+.dashboard_logo{
+	border-bottom: 1px solid #35383D;
+	margin-right: 10px;
+	margin-left: 10px;
+
+}
+
+.dashboard_menu_2_menu{
+	margin-top: 20px;
+	background-color:#1B1C20 ;
+	margin-left: 10px;
+	margin-right: 20px;
+	padding-top: 10px;
+	width: 170px;
+	color: white;
+	height: 45px;
+}
+.help_needed{
+	margin-top: 1px;
+	background-color:#1B1C20 ;
+	margin-left: 10px;
+	margin-right: 20px;
+	padding-top: 10px;
+	width: 170px;
+	color: white;
+	height: 45px;
+}
+.help_needed:hover{
+background-color: whitesmoke;
+    color: black;
+    transition-delay: 1s ease;	
+}
+
+.dashboard_menu_2_menu:hover{
+    background-color: whitesmoke;
+    color: black;
+    transition-delay: 1s ease;
+}
+.menulist_menu2{
+	margin:15px;
+	transition-delay: 0.5s ease;
+    
+}
+.menulist_menu2_list_items{
+background-color: black;
+outline: none !important;
+color: whitesmoke;
+border: none;
+}
+.menulist_menu2_list_items:hover{
+	border-right: 10px solid;
+	cursor: pointer;
+}
+.bi-box-arrow-right{
+	color: whitesmoke;
+	margin-left: 20px;
+	font-size: 20px;
+}
+.page_hover_effect_container{
+	padding: 10px;
+}
+.active_hover_item_page_hover{
+	background-color: #35383D;
+	border-radius: 7px;
+	padding:5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	color: white;
+	font-size: 13px;
+}
+.hover_item_page_hover{
+	padding:5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: white;
+	font-size: 13px;
+	/*border-right: 1px solid;*/
+}
+.hover_item_page_hover:hover{
+	background-color: #35383D;
+	border-radius: 7px;
+}
+.search_btn_menu2{
+background-color: #35383D;
+margin-top: 0px;	
+}
+.bi-search{
+	top: -20px;
+}
+.search_btn_menu2:hover{
+background-color: black;
+
+}
+.bi-plus-circle-fill{
+	font-size:40px; 
+	color: whitesmoke;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 25%;
+}
+.bi-plus-circle-fill:hover{
+ color: grey;
+}
+.plus_symbol_rotate_menu2:hover{
+ animation: mymove 2s;
+
+}
+@keyframes mymove {
+  50% {transform: rotate(180deg);}
+}
+.quicklinks_card{
+    visibility: hidden;
+    position: absolute;
+    width: 60px;
+    height: 150px;
+    bottom: 290px;
+    right: 50px;
+    background-color: transparent;
+    color: black;
+   }
+    .quick_link_btn_menu2:hover ~ .quicklinks_card{
+    visibility: visible;
+    animation: downOut 300ms ease-in-out forwards;
+    transform-origin: center center;
+  }
+   .quick_icons{
+    margin-bottom: 10px;
+    font-size: 19px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+   }
+
+   @keyframes downOut {
+     0% {
+        transform: translateZ(200px) transLateY(40px)
+    }
+    80% {
+        transform: translateZ(-10px) transLateY(0px)
+    }
+    100% {
+        transform: translateZ(0px) transLateY(0px)
+    }
+}
